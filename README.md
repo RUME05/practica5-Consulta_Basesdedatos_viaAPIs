@@ -45,5 +45,20 @@ Los datos de las series se obtienen de la API pública de **TVMaze**:
 6.  Sincronizar Gradle y ejecutar en un emulador/dispositivo.
 
 ## 📸 Capturas de Pantalla 
-*(Aquí puedes agregar imágenes de tu app si subes capturas a la carpeta del proyecto)*
+Usuario "test@correo.com"
+| Login de la App | Catalogo de la API | Favoritos y Recomendaciones |
+|:---:|:---:|:---:|
+| ![Login](capsP5/1.jpg) | ![Catalogo](capsP5/2.jpg) | ![Fav](capsP5/3.jpg) |
+| *Login con correo y contraseña.* | *Catalogo de la API con historial de búsqueda.* | *Favoritos y recomendaciones del usuario.* |
 
+Usuario "test2@correo.com"
+| Login de la App | Catalogo de la API | Favoritos y Recomendaciones |
+|:---:|:---:|:---:|
+| ![Login](capsP5/4.jpg) | ![Catalogo](capsP5/5.jpg) | ![Fav](capsP5/6.jpg) |
+| *Login con correo y contraseña.* | *Catalogo de la API con historial de búsqueda.* | *Favoritos y recomendaciones del usuario.* |
+
+Base de datos de la app en Firebase 🔥
+![Firebase](capsP5/8.png)
+
+Usuarios de la app en Firebase 🔥
+![Users](capsP5/7.png)
